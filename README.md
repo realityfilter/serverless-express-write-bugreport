@@ -13,3 +13,8 @@ See https://github.com/trpc/trpc/blob/fbb4a2fb4b71d2f5ab7ee97617d951f3a92517c8/p
 In response.js the write method should return true.
 
 See `writable.spec.ts`in this repo for a testcase.
+
+## Steps to reproduce:
+
+- `npm install`
+- `vitest`
